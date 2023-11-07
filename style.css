@@ -126,17 +126,17 @@ border-top: 1px #fff;
 
 /*Desktop*/
 @media (min-width:1024px){
-  
+
 }
 
 
  /*mobile view*/
  @midia (max-width:768px){
   section .main .searchbox .search{
-    width:78%;
+    width:68%;
   }
   section .main .searchbox .icons{
-    width: 84%;
+    width: 74%;
   }
   section .footer .row ul{
     display:block;
