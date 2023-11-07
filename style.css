@@ -123,4 +123,22 @@ border-top: 1px #fff;
   margin-right: 15px;
   font-size: 13px;
  }
- 
+
+/*Desktop*/
+@media (min-width:1024px){
+  
+}
+
+
+ /*mobile view*/
+ @midia (max-width:768px){
+  section .main .searchbox .search{
+    width:78%;
+  }
+  section .main .searchbox .icons{
+    width: 84%;
+  }
+  section .footer .row ul{
+    display:block;
+  }
+ }
